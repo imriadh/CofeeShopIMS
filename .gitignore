@@ -1,0 +1,9 @@
+target/
+*.log
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+coffee_db.sqlite
